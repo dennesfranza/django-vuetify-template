@@ -9,9 +9,13 @@ djangorestframework = "*"
 gunicorn = "*"
 whitenoise = "==4.0"
 dj-database-url = "*"
-"psycopg2" = "*"
+autopep8 = "*"
+psycopg2-binary = "*"
+django-rest-auth = "*"
+djangorestframework-jwt = "*"
 
 [dev-packages]
+autopep8 = "*"
 
 [requires]
 python_version = "3.6"
